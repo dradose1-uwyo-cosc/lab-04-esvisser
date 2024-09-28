@@ -1,8 +1,8 @@
-# Your Name Here
+# Ezra Visser
 # UWYO COSC 1010
 # Submission Date
-# Lab 03 
-# Lab Section: 
+# Lab 04
+# Lab Section: 14
 # Sources, people worked with, help given to: 
 # your
 # comments
