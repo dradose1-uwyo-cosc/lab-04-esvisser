@@ -7,6 +7,6 @@
 * example
 * example
 ## Project Quirks/ Things that don't work
-* example
+* code would not run, reloaded window, and it ran with out a problem
 * example
 * example
